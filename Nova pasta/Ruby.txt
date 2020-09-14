@@ -1,0 +1,6 @@
+Iniciando em Ruby
+Iniciar a programar em ruby é bem simples e não requer instalação desde que seja de seu conhecimento um website que sirva como interpretador ruby.
+No nosso caso,temos um repositório Github, e nele apenas criamos um Arquivo.rb(documento do tipo Ruby) e começamos a escrever linhas de código.
+Claro, utilizar esse serviço não significa aproveitar todos os recursos Ruby em sua versão desktop, mas já temos uma visão de como funciona.
+Instalando o Ruby em seu computador
+O próprio site do Ruby tem um guia rápido de instalação para todas as plataformas. Para windows, em específico, temos um instalador que abre o prompt de comando para começar a instalação.
