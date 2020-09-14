@@ -1,0 +1,6 @@
+Iniciando em Python
+Iniciar a programar em ruby é bem simples e não requer instalação desde que seja de seu conhecimento um website que sirva como interpretador ruby.
+No nosso caso,temos um repositório Github, e nele apenas criamos um Arquivo.py(documento do tipo Python) e começamos a escrever linhas de código.
+Claro, utilizar esse serviço não significa aproveitar todos os recursos do Python em sua versão desktop, mas já temos uma visão de como funciona.
+Instalando o Python em seu computador
+O próprio site do Python tem um guia rápido de instalação para todas as plataformas. Para windows, em específico, temos um instalador que abre o prompt de comando para começar a instalação.
