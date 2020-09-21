@@ -1,0 +1,5 @@
+Programando em C
+A linguagem Cé muito utilizada na programação de jogos, o que torna muito interessante para mim
+(pode ser um motivo bem simples, mas fazer o que?)
+será um desafio aprender essa linguagem pelas diferenças 
+com as linguagens as quais estou habituado.
