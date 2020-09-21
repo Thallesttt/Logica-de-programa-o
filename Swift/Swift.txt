@@ -1,0 +1,3 @@
+Iniciando no Swift
+A ideia com Swift é criar aplicativos para ios e Android aproveitando ao máximo sua lingaugem
+e aprimorar minha experiência de programador dessa forma.
